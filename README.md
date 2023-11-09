@@ -21,7 +21,7 @@ Here are my projects, please feel free to check them out:
 
 😄<a href="https://github.com/pennywangpw/CouchBooking">CouchBooking</a>
 
-😄<a href="https://github.com/pennywangpw/RemeberThatFlask">Remember that Flask</a>
+😄<a href="https://github.com/pennywangpw/RememberThatFlask">Remember that Flask</a>
 
 😄<a href="https://github.com/pennywangpw/SplitEZ">SplitEZ</a>
 
