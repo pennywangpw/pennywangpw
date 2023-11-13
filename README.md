@@ -3,7 +3,7 @@
 
 I'm a traveler, developer and foodie!
 
-I’m currently learning JavaScript, Python, React, Redux, Express, Flask, HTML/CSS, SQL and gained valuable experience working independently as well as collaboratively within a team. Utilizing agile methodology, I successfully contributed to the completion of various projects.
+I graduated from a bootcamp where I learned JavaScript, Python, React, Redux, Express, Flask, HTML/CSS, SQL and gained valuable experience working independently as well as collaboratively within a team. Utilizing agile methodology, I successfully contributed to the completion of various projects.
 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
